@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/gitgrace1379/TextUtils/static/js/main.f280e7e9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gitgrace1379/TextUtils/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/gitgrace1379/TextUtils/index.html",
+    "main.f280e7e9.js.map": "/gitgrace1379/TextUtils/static/js/main.f280e7e9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gitgrace1379/TextUtils/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f280e7e9.js"
+  ]
+}
